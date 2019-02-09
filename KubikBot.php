@@ -1,10 +1,10 @@
 <?php
 error_reporting(0);
 /**
- * @Author: Valdo Taroreh
- * @Date:   2017-11-06 22:54:36
- * @Last Modified by:   Valdo Taroreh
- * @Last Modified time: 2017-12-11 17:12:21
+ * @Author: Seputar-Informasi23
+ * @Date:  2019-10-02 1:20
+ * @Last Modified by:   Seputar-Informasi23
+ * @Kunjungi Website Kami: Seputar-Informasi23.blogspot.com
  */
 class Modules
 {
